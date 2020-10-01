@@ -9,6 +9,8 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    let name = "Alex"
+
     override func viewDidLoad() {
         super.viewDidLoad()
         title = "Суп весенний овощной"

@@ -11,6 +11,7 @@ class ViewController: UIViewController {
 
     let name = "Alex"
     let oneMoreName = "All good"
+    asdsdvms;lvds\;k
 
     override func viewDidLoad() {
         super.viewDidLoad()
